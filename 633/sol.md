@@ -1,4 +1,4 @@
-### Sum of Square Numbers(c++)
+### 633 Sum of Square Numbers(c++)
 #### 說明:兩數平方相加必須為輸入數，其中若一數為數入數即可。
 #### 解法:直接利用math.h中的sqrt去平方根，以及平方根相乘必須為target，才成立。
 #### 檢討:覺得很暴力，應該會有更好的解法。
